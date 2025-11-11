@@ -2,10 +2,10 @@
 title: "ahead-indicators"
 ---
 
-This is a Quarto website.
+![AHEAD](../images/Logo.svg){width=50%}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## AI for Health
 
-```{r}
-1 + 1
-```
+### Evaluation of Applications & Datasets
+
+The ahead Project brings together global expertise to set the standards for trustworthy AI that protects quality healthcare for all.

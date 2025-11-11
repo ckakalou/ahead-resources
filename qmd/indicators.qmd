@@ -1,0 +1,34 @@
+---
+title: "Indicators"
+---
+
+About this site
+
+```{r}
+library(data.table)
+library(rjson)
+library(gt)
+
+indicators_dir <- "../indicators/"
+
+fls <- indicators_dir |> list.files(full.names = TRUE, pattern = "json") 
+
+indicators_dt <- list()
+
+for(i in seq_along(fls)) {
+
+    json_data <- fls[i] |>
+        readLines() |>
+        paste(collapse = "") |>
+        fromJSON()
+
+    json_data$keywords <- json_data$keywords |> paste(collapse = ", ")
+
+    indicators_dt[[i]] <- json_data
+
+}
+
+indicators_dt <- indicators_dt |> rbindlist(idcol = "id", use.names = TRUE, fill = TRUE)
+
+gt(indicators_dt)
+```

@@ -1,0 +1,17 @@
+{
+  "Resource": "Human evaluation of large language models in healthcare: gaps, challenges, and the need for standardization",
+  "Agency": "npj Health Systems",
+  "Year": "",
+  "Responsible": "Christine Kakalou",
+  "Description": "A human-centred framework and web-based tool (HumanELY) for systematically evaluating LLM outputs in healthcare across quality, coherence, coverage, and potential harm, with relevance to patient-facing and health communication applications.",
+  "Type": "Article",
+  "Link": "https://www.nature.com/articles/s44401-025-00043-2",
+  "Dimension": "Social",
+  "Indicator": [
+    "Coherence",
+    "Coverage",
+    "Harm"
+  ],
+  "Code Available": "",
+  "Tool Available": "https://www.brainxai.com/humanely"
+}

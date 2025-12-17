@@ -1,0 +1,21 @@
+{
+  "Resource": "Artificial Intelligence-Powered Cognitive Behavioral Therapy Chatbots, a Systematic Review",
+  "Agency": " Iran J Psychiatry",
+  "Year": "2024",
+  "Responsible": "Mara Gkioka",
+  "Description": "The study aimed to evaluate the effectiveness of AI-based chatbot interventions in reducing symptoms of depression and anxiety through a meta-analysis of randomized controlled trials. Results showed small but significant improvements in both depression and anxiety, particularly after 8 weeks of treatment, although these effects were not sustained at three-month follow-up.",
+  "Type": "Article",
+  "Link": "https://pubmed.ncbi.nlm.nih.gov/40093525/",
+  "Dimension": ["Psychological", "Social"],
+  "Indicator": [
+    "Cognitive impact",
+    "Emotional impact",
+    "Behavioral impact",
+    "Engagement",
+    "Perceived Usefulness",
+    "Harm",
+    "Sustainability"
+  ],
+  "Code Available": "",
+  "Tool Available": ""
+}

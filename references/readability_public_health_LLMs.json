@@ -1,0 +1,16 @@
+{
+  "Resource": "RephQA: Evaluating Readability of Large Language Models in Public Health Question Answering",
+  "Agency": "ArXiv",
+  "Year": "2025",
+  "Responsible": "Christine Kakalou",
+  "Description": "This paper introduces RephQA, a public health question-answering benchmark designed to evaluate the readability and comprehensibility of large language model outputs, combining automated readability metrics with expert-informed assessment.",
+  "Type": "Article",
+  "Link": "https://arxiv.org/abs/2509.16360",
+  "Dimension": "Social",
+  "Indicator": [
+    "Readability",
+    "Comprehensibility"
+  ],
+  "Code Available": "",
+  "Tool Available": ""
+}

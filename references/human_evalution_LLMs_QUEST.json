@@ -1,0 +1,18 @@
+{
+  "Resource": "A framework for human evaluation of large language models in healthcare derived from literature review",
+  "Agency": "npj Health Systems",
+  "Year": "",
+  "Responsible": "Christine Kakalou",
+  "Description": "An empirical framework for evaluating large language models in healthcare, focusing on reliability, safety, accuracy, and limitations relevant to clinical and patient-facing use.",
+  "Type": "Article",
+  "Link": "https://www.nature.com/articles/s41746-024-01258-7",
+  "Dimension": "Social",
+  "Indicator": [
+    "Reliability",
+    "Accuracy",
+    "Hallucination",
+    "Safety"
+  ],
+  "Code Available": "",
+  "Tool Available": ""
+}

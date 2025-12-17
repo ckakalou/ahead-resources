@@ -1,0 +1,17 @@
+{
+  "Resource": "AI models collapse when trained on recursively generated data",
+  "Agency": "Nature",
+  "Year": "",
+  "Responsible": "Christine Kakalou",
+  "Description": "This paper investigates how training AI models on recursively generated data leads to model collapse, resulting in degraded performance, loss of diversity, and reliability risks for downstream applications.",
+  "Type": "Article",
+  "Link": "https://www.nature.com/articles/s41586-024-07566-y",
+  "Dimension": "Technical",
+  "Indicator": [
+    "Model robustness",
+    "Data quality degradation",
+    "Reliability"
+  ],
+  "Code Available": "",
+  "Tool Available": ""
+}
